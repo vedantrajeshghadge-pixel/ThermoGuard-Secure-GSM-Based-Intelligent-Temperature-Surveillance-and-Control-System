@@ -569,11 +569,11 @@ It demonstrates practical implementation of **Embedded C, ARM7 architecture, ADC
 
 ## 👨‍💻 Author
 
-### **MADHURI KAKUMANI**
+### **VEDANT RAJESH GHADGE**
 
-**Electronics and Communication Engineering**
+**Electronics and Telecommunication Engineering**
 
-**Andhra Loyola Institute Engineering and Technology**
+**Prof.Ram Meghe Institute of Technology and Reserch Badnera-Amravati**
 
 ---
 
