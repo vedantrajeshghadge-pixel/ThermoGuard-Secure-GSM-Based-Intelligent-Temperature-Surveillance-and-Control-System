@@ -65,11 +65,8 @@ The ThermoGuard system is built around the **LPC2148 ARM7 microcontroller**, whi
 
 ## 💻 Software Requirements
 
-* **Embedded C**
 * **Keil µVision**
 * **Flash Magic**
-* UART interrupt programming
-* I²C communication
 
 ---
 
